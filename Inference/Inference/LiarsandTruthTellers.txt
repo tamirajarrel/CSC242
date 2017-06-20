@@ -1,0 +1,14 @@
+Symbols:
+CalTruth
+AmyTruth
+BobTruth
+Compounds:
+1 CalTruth and AmyTruth false
+2 AmyTruth bicond 1 true
+3 null not CalTruth false
+4 BobTruth bicond 3 true
+5 null not AmyTruth false
+6 BobTruth or 5 false
+7 CalTruth bicond 6 true
+Target:
+AmyIsTellingTheTruth null null AmyTruth

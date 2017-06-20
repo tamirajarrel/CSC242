@@ -1,0 +1,17 @@
+Symbols:
+Mythical
+Immortal
+Mammal
+Horned
+Magical
+Compounds:
+1 Mythical imp Immortal true
+2 null not Mythical false
+3 null not Immortal false
+4 Mammal and 3 false
+5 2 imp 4 true
+6 Immortal or Mammal false
+7 6 imp Horned true
+8 Horned imp Magical true
+Target:
+Magical

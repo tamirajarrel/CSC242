@@ -1,0 +1,16 @@
+const int BOARD_SIZE = 3;
+const int WINNER_SIZE = BOARD_SIZE*2+2;
+const int DEBUG = false;
+const int TIMING = true;
+//typedef uint64_t board;
+void printBoard(int[BOARD_SIZE][BOARD_SIZE]);
+void numToXY(int, int&, int&);
+void promptMove(int &, int&, int [BOARD_SIZE][BOARD_SIZE]);
+int updateBoard(int [BOARD_SIZE][BOARD_SIZE], int[WINNER_SIZE], int , int , bool);
+void printWinners(int [WINNER_SIZE]);
+int pickNext(int board[BOARD_SIZE][BOARD_SIZE], int winner[WINNER_SIZE],  int x, int y, bool isPlayer, int maxDepth, int pieces, int &retx, int &rety	, bool isX, int alpha, int beta);
+int updateWinner(int[WINNER_SIZE]);
+int XYToNum(int, int);
+void gameLoop(int board[BOARD_SIZE][BOARD_SIZE], int winner[WINNER_SIZE], bool maximize, int maxDepth, int pieces, bool isX);
+bool checkWinner(int [WINNER_SIZE], int);
+void undoBoard(int board[BOARD_SIZE][BOARD_SIZE], int winner[WINNER_SIZE], int x, int y, bool isX);

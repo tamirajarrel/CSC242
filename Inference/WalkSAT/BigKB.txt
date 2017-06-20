@@ -1,0 +1,54 @@
+Symbols:
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+Compounds:
+20 8 and 15 true
+21 18 imp 16 true
+22 9 or 4 true
+23 10 bicond 10 true
+24 5 or 18 true
+25 12 or 19 true
+26 15 bicond 17 true
+27 null null 3 true
+28 3 or 16 true
+29 6 and 2 true
+30 17 and 13 true
+31 1 bicond 0 true
+32 5 or 10 true
+33 1 and 16 true
+34 12 and 10 true
+35 6 or 7 true
+36 null not 4 true
+37 8 or 9 true
+38 null null 16 true
+39 6 imp 9 true
+40 7 and 6 true
+41 1 imp 5 true
+42 7 and 12 true
+43 1 bicond 17 true
+44 3 bicond 1 true
+45 16 and 19 true
+46 14 bicond 15 true
+47 18 or 15 true
+48 5 and 12 true
+49 15 bicond 9 true
+Target:
+target null null 7

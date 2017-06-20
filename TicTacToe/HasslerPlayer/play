@@ -1,0 +1,9 @@
+#!/bin/bash
+
+cd "$(dirname "$0")"
+
+# WRITE YOUR RUNNING INSTRUCTIONS HERE
+# e.g. IF YOU MADE A JAR FILE CALLED HasslerPlayer.jar,
+# you would want to put
+java -jar HasslerPlayer.jar
+

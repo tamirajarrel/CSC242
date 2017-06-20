@@ -1,0 +1,194 @@
+Symbols:
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+Compounds:
+90 26 imp 47 true
+91 38 bicond 54 true
+92 13 bicond 58 true
+93 14 imp 74 true
+94 33 bicond 12 true
+95 58 bicond 1 true
+96 null null 54 true
+97 58 or 35 true
+98 1 imp 60 true
+99 24 or 52 true
+100 6 imp 37 true
+101 75 imp 83 true
+102 31 bicond 42 true
+103 null null 19 true
+104 28 or 22 true
+105 81 and 3 true
+106 79 bicond 3 true
+107 14 bicond 20 true
+108 10 or 65 true
+109 33 or 13 true
+110 null not 52 true
+111 60 and 76 true
+112 24 or 17 true
+113 79 or 54 true
+114 30 bicond 24 true
+115 24 or 88 true
+116 65 bicond 40 true
+117 85 bicond 58 true
+118 1 bicond 84 true
+119 20 bicond 48 true
+120 37 and 50 true
+121 null not 9 true
+122 17 imp 71 true
+123 78 bicond 32 true
+124 0 imp 88 true
+125 59 or 55 true
+126 26 and 51 true
+127 87 imp 85 true
+128 66 bicond 69 true
+129 40 imp 78 true
+130 43 bicond 87 true
+131 null not 62 true
+132 38 imp 32 true
+133 null not 88 true
+134 45 and 58 true
+135 70 or 77 true
+136 54 bicond 38 true
+137 43 and 20 true
+138 88 or 7 true
+139 25 bicond 25 true
+140 null null 82 true
+141 21 and 81 true
+142 29 and 62 true
+143 58 bicond 83 true
+144 32 bicond 13 true
+145 18 or 11 true
+146 34 and 24 true
+147 85 imp 84 true
+148 5 and 26 true
+149 14 and 31 true
+150 36 imp 8 true
+151 43 or 61 true
+152 26 or 59 true
+153 15 or 35 true
+154 36 bicond 80 true
+155 75 or 18 true
+156 4 imp 9 true
+157 31 or 4 true
+158 17 imp 61 true
+159 80 and 88 true
+160 null null 58 true
+161 24 and 13 true
+162 76 or 29 true
+163 34 or 4 true
+164 73 imp 7 true
+165 67 bicond 69 true
+166 44 and 82 true
+167 34 and 84 true
+168 74 bicond 31 true
+169 null null 12 true
+170 16 or 46 true
+171 89 bicond 30 true
+172 22 or 18 true
+173 62 and 21 true
+174 43 imp 82 true
+175 47 and 26 true
+176 22 bicond 35 true
+177 63 bicond 47 true
+178 27 and 74 true
+179 null not 29 true
+180 10 bicond 40 true
+181 65 bicond 4 true
+182 50 and 23 true
+183 10 bicond 65 true
+184 45 and 44 true
+185 84 and 4 true
+186 25 or 68 true
+187 35 and 64 true
+188 38 or 75 true
+189 41 bicond 37 true
+Target:
+84
